@@ -1,0 +1,12 @@
+{
+  "name": "morsos",
+  "version": "1.0.0",
+  "description": "SOS with morse",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
