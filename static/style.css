@@ -1,0 +1,10 @@
+body {
+    background-color: #ddd;
+}
+
+#mainCanvas {
+    position: absolute;
+    top: 106px;
+    left: 146px;
+    border: 2px solid gold;
+}
